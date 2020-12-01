@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HAPPY</title>
+    <link rel="stylesheet" href="css_one.css">
+</head>
+<body>
+<div class="fourteen">
+    <span class="time">
+        <script language="JavaScript">
+                    today=new Date();
+                    var hours = today.getHours();
+                    var minutes = today.getMinutes();
+                    var seconds = today.getSeconds();
+                    var timeValue = "<FONT COLOR=black>" + ((hours >12) ? hours -12 :hours);
+                    timeValue += ((minutes < 10) ? "<BLINK><FONT color=black>:</FONT></BLINK>0" : "<BLINK><FONT COLOR=black>:</FONT></BLINK>") + minutes+"</FONT></FONT>";
+                    timeValue += (hours >= 12) ? "<FONT ><B>pm</B></FONT>" : "<FONT ><B>am</B></FONT>";
+                    function initArray(){
+                        this.length=initArray.arguments.length
+                        for(var i=0;i<this.length;i++)
+                            this[i+1]=initArray.arguments[i]  }
+                    var d=new initArray("<font color=black>星期日","<font color=black>星期一","<font color=black>星期二","<font color=black>星期三","<font color=black>星期四","<font color=black>星期五","<font color=black>星期六");
+                    document.write("<font color=black>",today.getFullYear(),"<font color=black>年","<font color=black>",today.getMonth()+1,"<font color=black>月","<font color=black>",today.getDate(),"<font color=black>日 </FONT>",d[today.getDay()+1]," ",timeValue);
+        </script>
+    </span>
+    <div class="word_one"><a href="main.html">返回</a></div>
+    <div class="auto_margin">
+        <span class="word_two">
+            <br>
+            <br>
+            <br>
+被子太轻，压不住想你的心。
+        </span>
+    </div>
+</div>
+
+</body>
+</html>
