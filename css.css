@@ -2,7 +2,7 @@
 
 .main{
     font:24px/48px'微软雅黑';
-    background-image:url(image/YQX3.jpg) ;
+    background-image:url(image/YQX7.jpg) ;
     /*background-size:cover;*/
     width:1263px;
     height:1600px;
@@ -10,6 +10,17 @@
 p{
     font:12px/20px'微软雅黑';
 }
+
+.margin{
+    width: 480px;
+    float:right;
+    height:20px;
+    /*position:fixed;*/
+    right:800px;
+    top:20px;
+
+}
+
 
 .time{
     width: 360px;
