@@ -7,8 +7,12 @@
 </head>
 <body>
 <div class="fourteen">
-    <span class="time">
-        <script language="JavaScript">
+    <div class="top">
+        <audio controls autoplay="autoplay" loop="loop" >
+            <source src="4_匹诺曹.mp3"  type= "audio/mp3"/>
+        </audio>
+        <span class="time">
+                <script language="JavaScript">
                     today=new Date();
                     var hours = today.getHours();
                     var minutes = today.getMinutes();
@@ -21,9 +25,10 @@
                         for(var i=0;i<this.length;i++)
                             this[i+1]=initArray.arguments[i]  }
                     var d=new initArray("<font color=black>星期日","<font color=black>星期一","<font color=black>星期二","<font color=black>星期三","<font color=black>星期四","<font color=black>星期五","<font color=black>星期六");
-                    document.write("<font color=black>",today.getFullYear(),"<font color=black>年","<font color=black>",today.getMonth()+1,"<font color=black>月","<font color=black>",today.getDate(),"<font color=black>日 </FONT>",d[today.getDay()+1]," ",timeValue);
-        </script>
-    </span>
+                    document.write("<font color=black>",today.getFullYear(),"<font color=black>年","<font color=black>",today.getMonth()+1,"<font color=black>月","<font color=black>",today.getDate(),"<font color=black>日 </FONT>",d[today.getDay()+1]," ",timeValue);  //-->
+                </script>
+            </span>
+    </div>
     <div class="word_one"><a href="main.html">返回</a></div>
     <div class="auto_margin">
         <span class="word_two">
