@@ -7,6 +7,13 @@
     width:1263px;
     height:1600px;
 }
+.index{
+    font:24px/48px'微软雅黑';
+    background-image:url(image/main.gif) ;
+    /*background-size:cover;*/
+    width:1263px;
+    height:1600px;
+}
 p{
     font:12px/20px'微软雅黑';
 }
