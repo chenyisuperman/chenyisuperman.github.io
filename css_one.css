@@ -34,249 +34,280 @@
 
 .one{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/1.jpg) ;
     background-size:cover;
-    width:1263px;
-    height:1080px;
+    width:1332px;
+    height:2000px;
 }
 .two{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/2.jpg) ;
     background-size:cover;
-    width:1263px;
-    height:1080px;
+    width:1263px;/*width:1263px;*/
+    height:2844px;/*height:1080px;*/
 }
 .three{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/3.jpg) ;
     background-size:cover;
-    width:1263px;
-    height:1080px;
+    width:1264px;
+    height:2844px;
 }
 
 .four{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/4.jpg) ;
     background-size:cover;
     width:1263px;
-    height:900px;
+    height:1684px;
 }
 
 .five{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/5.jpg) ;
     background-size:cover;
     width:1263px;
-    height:1080px;
+    height:1684px;
 }
 
 .six{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/6.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:1682px;
 }
 
 
 .seven{
       font:24px/48px'微软雅黑';
+      color:white;
       background-image:url(image/7.jpg) ;
       background-size:cover;
       width:1264px;
-      height:1080px;
+      height:2844px;
 }
 
 .eight{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/8.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .nine{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/9.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:1685px;
 }
 
 .ten{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/10.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .eleven{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/11.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .twelve{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/12.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .thirteen{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/13.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .fourteen{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/14.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .fifteen{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/15.jpg) ;
     background-size:cover;
     width:1264px;
-    height:960px;
+    height:1685px;
 }
 
 .sixteen{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/16.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:1685px;
 }
 
 .seventeen{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/17.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2842px;
 }
 
 .eighteen{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/18.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:3582px;
 }
 
 .nineteen{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/19.jpg) ;
     background-size:cover;
     width:1264px;
-    height:894px;
+    height:2844px;
 }
 
 .twenty{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/20.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:3580px;
 }
 
 .twenty_one{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/21.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:3792px;
 }
 
 .twenty_two{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/22.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .twenty_three{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/23.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:3792px;
 }
 
 .twenty_four{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/24.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .twenty_five{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/25.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .twenty_six{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/26.jpg) ;
     background-size:cover;
     width:1264px;
-    height:839px;
+    height:3581px;
 }
 
 .twenty_seven{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/27.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:3583px;
 }
 
 .twenty_eight{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/28.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .twenty_nine{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/29.jpg) ;
     background-size:cover;
     width:1264px;
-    height:922px;
+    height:2844px;
 }
 
 .thirty{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/30.jpg) ;
     background-size:cover;
     width:1264px;
-    height:1080px;
+    height:2844px;
 }
 
 .thirty_one{
     font:24px/48px'微软雅黑';
+    color:white;
     background-image:url(image/31.jpg) ;
     background-size:cover;
     width:1264px;
-    height:904px;
+    height:1896px;
 }
 
 .footer{
